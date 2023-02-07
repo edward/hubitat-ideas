@@ -1,9 +1,13 @@
 # hubitat-ideas
 Sketches of ideas to learn Glamorous Toolkit through studying Hubitat
 
-```
+```smalltalk
 Metacello new
-  baseline: 'GtStuff';
-  repository: 'github://onierstrasz/gt-stuff:main/src';
+  baseline: 'BaselineOfHubitat';
+  repository: 'github://edward/hubitat-ideas:main/src';
   load
+```
+
+```smalltalk
+BaselineOfHubitat loadLepiter
 ```
