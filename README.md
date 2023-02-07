@@ -3,7 +3,7 @@ Sketches of ideas to learn Glamorous Toolkit through studying Hubitat
 
 ```smalltalk
 Metacello new
-  baseline: 'BaselineOfHubitat';
+  baseline: 'Hubitat';
   repository: 'github://edward/hubitat-ideas:main/src';
   load
 ```
