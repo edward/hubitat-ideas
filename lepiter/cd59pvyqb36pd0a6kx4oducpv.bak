@@ -230,80 +230,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "It would be helpful if my parser transformed its input into a collection of these event models."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-02T22:14:29.115372-05:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-02T22:14:29.115372-05:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "oe4B0SSwDQCNA6pICNrc0A=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-02T15:04:24.237332-05:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-02-02T15:04:24.237332-05:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "7r7qzh6wDQCIdHWYCNrc0A=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
 						}
 					]
 				},
@@ -1611,6 +1537,74 @@
 								"uidString" : "Hy2HJdmwDQCfPRjmDfiZGQ=="
 							},
 							"code" : "HubitatLogEvents new logEvents: logEvents"
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-14T12:48:11.634937-05:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-14T12:48:11.634937-05:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "bjjjTQ6xDQCjSVBvA9VceQ=="
+							},
+							"code" : ""
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-14T12:48:13.435664-05:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-02-14T12:48:13.435664-05:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "drP+TQ6xDQCjTic6A9VceQ=="
+							},
+							"code" : ""
 						}
 					]
 				},
@@ -1644,43 +1638,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "{{gtTodo:label=Parse a single element from the event log Array with the parser|completed=2023-02-10}} "
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-10T13:51:55.433728-05:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-02-10T13:51:55.433728-05:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "oTpwur6wDQCeVhiBDfiZGQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
 			},
 			{
 				"__type" : "textSnippet",

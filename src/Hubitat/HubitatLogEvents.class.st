@@ -13,7 +13,8 @@ HubitatLogEvents >> gtLogEventsFor: aView [
 	^ aView columnedList
 		title: 'Hubitat log events';
 		items: [ self logEvents ];
-		column: 'Timestamp' text: [ :each | each timestamp asLocalStringYMDHM ];
+		column: 'Timestamp'
+			text: [ :each | each timestamp asLocalStringYMDHM asRopedText background: Color paleYellow ];
 		column: 'Type' text: #eventType;
 		column: 'Log level' text: #logLevel;
 		column: 'Source description' text: #sourceDescription;
